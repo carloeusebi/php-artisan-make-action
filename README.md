@@ -1,11 +1,11 @@
-<a href="https://packagist.org/packages/carloeusebi/php-artisan-make:action" target="_blank">
-    <img alt="Total Downloads" src="https://img.shields.io/packagist/dt/carloeusebi/php-artisan-make:action">
+<a href="https://packagist.org/packages/carloeusebi/php-artisan-make-action" target="_blank">
+    <img alt="Total Downloads" src="https://img.shields.io/packagist/dt/carloeusebi/php-artisan-make-action">
 </a>
-<a href="https://packagist.org/packages/carloeusebi/php-artisan-make:action" target="_blank">
-    <img alt="Latest Version" src="https://img.shields.io/packagist/v/carloeusebi/php-artisan-make:action">
+<a href="https://packagist.org/packages/carloeusebi/php-artisan-make-action" target="_blank">
+    <img alt="Latest Version" src="https://img.shields.io/packagist/v/carloeusebi/php-artisan-make-action">
 </a>
-<a href="https://packagist.org/packages/carloeusebi/php-artisan-make:action" target="_blank">
-    <img alt="License" src="https://img.shields.io/packagist/l/carloeusebi/php-artisan-make:action">
+<a href="https://packagist.org/packages/carloeusebi/php-artisan-make-action" target="_blank">
+    <img alt="License" src="https://img.shields.io/packagist/l/carloeusebi/php-artisan-make-action">
 </a>
 
 # Php Artisan Make:action
