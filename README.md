@@ -29,7 +29,7 @@ A very small Laravel Package that adds the `make:action` Artisan Command.
 Run the following command to install the latest version fo the package:
 
 ```bash
-composer require carloeusebi/php-artisan-make:action
+composer require carloeusebi/php-artisan-make:action --dev
 ```
 
 ## Usage
