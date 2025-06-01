@@ -1,0 +1,32 @@
+{
+  "name": "carlo-eusebi/php-artisan-makeaction",
+  "keywords": [
+    "dev"
+  ],
+  "description": "A Package that adds the php artisan make:action command",
+  "type": "library",
+  "require": {
+    "illuminate/console": "^12.16"
+  },
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "CarloEusebi\\PhpArtisanMakeAction\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "carloeusebi",
+      "email": "carloeusebi@gmail.com"
+    }
+  ],
+  "extra": {
+    "laravel": {
+      "providers": [
+        "CarloEusebi\\PhpArtisanMakeAction\\MakeActionServiceProvider"
+      ]
+    }
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
